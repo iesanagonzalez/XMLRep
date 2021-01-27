@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE BDsms 
+[
+<!ELEMENT BDsms (sms*)>
+<!ELEMENT sms (telefono,fecha,hora,mensaje)>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT mensaje (#PCDATA)>
+]
+>
+<BDsms>
+<sms>
+    <telefono>955487836</telefono>
+    <fecha>1/7/2011</fecha>
+    <hora>23:55</hora>
+    <mensaje>Juego1</mensaje>
+</sms>    
+<sms>
+    <telefono>955487836</telefono>
+    <fecha>1/7/2011</fecha>
+    <hora>23:55</hora>
+    <mensaje>Juego2</mensaje>
+</sms>    
+<sms>
+    <telefono>955487836</telefono>
+    <fecha>1/7/2011</fecha>
+    <hora>23:55</hora>
+    <mensaje>Juego3</mensaje>
+</sms>    
+</BDsms>

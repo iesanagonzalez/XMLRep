@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance 
+                     xsi:noNamespaceSchemaLocation="Concesionario.xsd">
+<coche>
+<codigo>1</codigo>
+<marca>SEAT</marca>
+<modelo>Leon</modelo>
+<matricula>1234-BBB</matricula>
+<potencia>130</potencia>
+<plazas>5</plazas>
+<numPuertas>5</numPuertas>
+</coche>
+<coche>
+<codigo>2</codigo>
+<marca>BMW</marca>
+<modelo>Serie 1</modelo>
+<matricula>5678-CCC</matricula>
+<potencia>150</potencia>
+<plazas>4</plazas>
+<numPuertas>3</numPuertas>
+</coche>
+<coche>
+<codigo>3</codigo>
+<marca>Peugeot</marca>
+<modelo>406</modelo>
+<matricula>9067-DYC</matricula>
+<potencia>90</potencia>
+<plazas>5</plazas>
+<numPuertas>4</numPuertas>
+</coche>
+</Concesionario>
