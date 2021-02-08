@@ -1,4 +1,4 @@
-<!DOCTYPE Concesionario [
+ 
 <!ELEMENT Concesionario (coche)*>
 <!ELEMENT coche (codigo, marca, modelo, matricula, potencia, plazas,
 numPuertas )>
@@ -9,4 +9,4 @@ numPuertas )>
 <!ELEMENT potencia (#PCDATA)>
 <!ELEMENT plazas (#PCDATA)>
 <!ELEMENT numPuertas (#PCDATA)>
-]>
+

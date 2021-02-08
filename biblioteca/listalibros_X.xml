@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<listalibros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="listalibros.xsd">
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>López</apellido1>
+                <apellido2>Rodríguez</apellido2>
+                <nombre>Juan</nombre>
+            </autor>
+            <autor>
+                <apellido1>Pérez</apellido1>
+                <apellido2>Sánchez</apellido2>
+                <nombre>Ana</nombre>
+            </autor>
+        </autores>
+        <titulo>Microeconomía</titulo>
+        <editorial>Editorial de economía</editorial>
+        <fechaPublicacion>Abril de 2010</fechaPublicacion>
+        <ISBN>1-2323-321-12</ISBN>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Ruíz</apellido1>
+                <apellido2>Cortés</apellido2>
+                <nombre>Raúl</nombre>
+            </autor>
+            <autor>
+                <apellido1>López</apellido1>
+                <apellido2>Lara</apellido2>
+                <nombre>María</nombre>
+            </autor>
+        </autores>
+        <titulo>Matemáticas para ingeniería</titulo>
+        <editorial>Editorial de matemáticas</editorial>
+        <fechaPublicacion>Marzo de 2009</fechaPublicacion>
+        <ISBN>1-3233-222-31</ISBN>
+    </libro>
+</listalibros>
